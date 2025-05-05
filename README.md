@@ -1,6 +1,6 @@
 # 🐸 Jonathan // aka Croakster
 
-Welcome to my GitHub — part code lab, part digital swamp. Here you’ll find my programming projects, philosophical experiments, and *Croakster*-infused commentary on tech, power, and the human condition.
+Welcome to my GitHub — part code lab, part digital swamp. Here you’ll find my programming projects, and *Croakster*-infused commentary on tech, power, and the human condition.
 
 ## 🔧 About Me
 
@@ -10,22 +10,22 @@ I'm a self-taught programmer currently exploring:
 - **C# + Unity** (coming soon: interactive Croakster games)
 - **Git/GitHub** (version control, collaboration, and public transparency)
 
-I’m also building out content for *The CroakCast*, a YouTube/podcast hybrid featuring a clever, charismatic frog who takes on Big Tech, free speech, and AI ethics with courtroom satire and swampy wisdom.
+I’m also building out content for *The CroakCast*, a YouTube/podcast hybrid featuring a clever, charismatic frog who takes on Big Tech, free speech, and AI ethics with my satire and swampy wisdom.
 
 
 ## 🎙️ The CroakCast
 
 > *“When the system gets murky, Croakster speaks up. Loud.”*
 
-🌀 Topics I code about and create videos on:
-- Algorithmic justice
-- Media as moral enforcer
-- Legal gray zones of AI
-- Digital privacy and online identity
+🌀 Topics I create videos on:
+- systemic justice
+- Trendy news
+- Gen AI
+- How to's on programming
 - Satire + tech ethics
 
 🎥 [YouTube Channel](#) FrogbertCroakster 
-🐦 [Twitter/X](#) (If applicable)
+🐦 [Twitter/X](#) coming soon
 
 ---
 
@@ -56,7 +56,7 @@ Code isn’t neutral. Neither is content. I aim to build tools and stories that 
 ## 🐸 Contact
 
 - 📧 frogbertcroakster@gmail.com
-- 🌐 [your personal site or Linktree]
+- 🌐 In development
 - 💬 DM-friendly on GitHub or socials
 
 ---
